@@ -118,7 +118,7 @@ contract EthBnb {
             // You can use this info on the frontend
             return numberOfNightsPaid;
         
-        // What is the tenant sent the wrong amount?
+        // What if the tenant sent the wrong amount?
         // Well we send it back
         } else {
             
